@@ -5,7 +5,7 @@ Proyecto realizado para el colectivo, en el cual se simula el movimiento parabó
 
 ### Reconocimiento a mis **estimados** compañeros que permitieron que fuera posible:
 
-!(simulador1.PNG)
+![](simulador1.PNG)
 
 ### Vista Principal del Simulador
 
